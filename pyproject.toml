@@ -1,0 +1,9 @@
+[project]
+name = "kstream-101"
+version = "0.1.0"
+description = "Python + Kafka 101 tutorial"
+requires-python = ">=3.11"
+dependencies = [
+    "kafka-python-ng==2.2.3",
+    "python-dotenv>=1.2.2",
+]
